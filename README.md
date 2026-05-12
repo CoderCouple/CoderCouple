@@ -24,7 +24,6 @@
   **AI Founder · Engineering Leader · Speaker**
 
   - Engineering Manager, Agent Platform @ LinkedIn
-  - CTO @ [Octopod AI](https://octopodai.app/)
   - Founder & CEO of [Fulloop AI](https://www.fulloop.ai)
   - Previously Staff Engineer @ Snap · EM @ Uber · SWE @ Meta
 
