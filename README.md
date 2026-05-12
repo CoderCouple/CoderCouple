@@ -1,6 +1,6 @@
   # CoderCouple 👋
 
-  We're **Sunil Tiwari** and **Payal Fofadiya** — a married pair of software engineers in the San Francisco Bay Area, building at the intersection of AI agents, LLM infrastructure, and applied machine learning.
+  We're **Sunil Tiwari** and **Payal Fofadiya** — a pair of software engineers in the San Francisco Bay Area, building at the intersection of AI agents, LLM infrastructure, and applied machine learning.
 
   This shared account is where our joint experiments live, alongside individual side projects we tinker with after-hours.
 
