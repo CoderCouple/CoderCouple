@@ -10,7 +10,7 @@
 
   **AI Thought Leader · Engineer · Computer Scientist**
 
-  - CEO @ [Octopod AI](https://github.com/CoderCouple?tab=repositories&q=octopod)
+  - CEO @ [Octopod AI](https://octopodai.app/)
   - Ex-CTO of [Fulloop AI](https://www.fulloop.ai)
   - MS Computer Software Engineering, San José State University
   - Currently shipping at eBay
@@ -24,6 +24,7 @@
   **AI Founder · Engineering Leader · Speaker**
 
   - Engineering Manager, Agent Platform @ LinkedIn
+  - CTO @ [Octopod AI](https://octopodai.app/)
   - Founder & CEO of [Fulloop AI](https://www.fulloop.ai)
   - Previously Staff Engineer @ Snap · EM @ Uber · SWE @ Meta
 
